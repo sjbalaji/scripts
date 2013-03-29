@@ -1,0 +1,125 @@
+
+Starting Nmap 5.50 ( http://nmap.org ) at 2012-11-05 11:51 IST
+Nmap scan report for orchid (10.6.9.7)
+Host is up (0.000079s latency).
+MAC Address: 64:31:50:18:A9:19 (Unknown)
+Nmap scan report for hibiscus.cse.iitm.ac.in (10.6.9.10)
+Host is up (0.000071s latency).
+MAC Address: 00:13:21:CA:87:A5 (Hewlett Packard)
+Nmap scan report for mandaram.cse.iitm.ac.in (10.6.9.14)
+Host is up (0.00016s latency).
+MAC Address: 24:BE:05:28:1D:02 (Unknown)
+Nmap scan report for tyler (10.6.9.20)
+Host is up (0.00012s latency).
+MAC Address: E0:69:95:A6:86:23 (Unknown)
+Nmap scan report for 10.6.9.21
+Host is up (0.00028s latency).
+MAC Address: E8:39:35:31:74:ED (Unknown)
+Nmap scan report for 10.6.9.23
+Host is up (0.00037s latency).
+MAC Address: 08:00:27:27:B4:5C (Cadmus Computer Systems)
+Nmap scan report for meghdoot (10.6.9.36)
+Host is up (0.00020s latency).
+MAC Address: D4:85:64:9A:38:B6 (Hewlett Packard)
+Nmap scan report for beethoven (10.6.9.44)
+Host is up.
+Nmap scan report for zephyr (10.6.9.50)
+Host is up (0.000084s latency).
+MAC Address: E0:69:95:A6:86:52 (Unknown)
+Nmap scan report for doslab-HP-Z400 (10.6.9.51)
+Host is up (0.00017s latency).
+MAC Address: D4:85:64:BD:B7:64 (Hewlett Packard)
+Nmap scan report for iitm-HP-Z400-Workstation4 (10.6.9.52)
+Host is up (0.00017s latency).
+MAC Address: 64:31:50:18:A9:03 (Unknown)
+Nmap scan report for 10.6.9.54
+Host is up (0.00015s latency).
+MAC Address: E0:69:95:A6:83:CD (Unknown)
+Nmap scan report for 10.6.9.59
+Host is up (0.00051s latency).
+MAC Address: 08:00:27:A4:9B:C3 (Cadmus Computer Systems)
+Nmap scan report for 10.6.9.70
+Host is up (0.00054s latency).
+MAC Address: E8:39:35:91:5A:12 (Unknown)
+Nmap scan report for 10.6.9.75
+Host is up (0.00051s latency).
+MAC Address: 08:00:27:58:22:65 (Cadmus Computer Systems)
+Nmap scan report for 10.6.9.76
+Host is up (0.00014s latency).
+MAC Address: E8:39:35:31:74:3D (Unknown)
+Nmap scan report for 10.6.9.99
+Host is up (0.00022s latency).
+MAC Address: 08:00:27:14:73:51 (Cadmus Computer Systems)
+Nmap scan report for 10.6.9.110
+Host is up (0.00014s latency).
+MAC Address: 00:1C:C4:2D:13:45 (Hewlett Packard)
+Nmap scan report for 10.6.9.200
+Host is up (0.00037s latency).
+MAC Address: 00:15:E9:03:E4:5F (D-Link)
+Nmap scan report for ylab1.cse.iitm.ac.in (10.6.9.201)
+Host is up (0.00016s latency).
+MAC Address: 00:17:08:D1:34:3F (Hewlett Packard)
+Nmap scan report for ylab2.cse.iitm.ac.in (10.6.9.202)
+Host is up (0.00015s latency).
+MAC Address: 00:17:08:92:B7:7D (Hewlett Packard)
+Nmap scan report for ylab4.cse.iitm.ac.in (10.6.9.204)
+Host is up (0.00015s latency).
+MAC Address: 00:17:08:92:77:A3 (Hewlett Packard)
+Nmap scan report for ylab5.cse.iitm.ac.in (10.6.9.205)
+Host is up (0.00015s latency).
+MAC Address: 00:17:08:92:E6:35 (Hewlett Packard)
+Nmap scan report for ylab9.cse.iitm.ac.in (10.6.9.209)
+Host is up (0.00014s latency).
+MAC Address: 00:17:08:92:6A:D9 (Hewlett Packard)
+Nmap scan report for ylab10.cse.iitm.ac.in (10.6.9.210)
+Host is up (0.00014s latency).
+MAC Address: 00:17:08:92:37:91 (Hewlett Packard)
+Nmap scan report for ylab11.cse.iitm.ac.in (10.6.9.211)
+Host is up (0.00014s latency).
+MAC Address: 00:17:08:92:3A:07 (Hewlett Packard)
+Nmap scan report for ylab12.cse.iitm.ac.in (10.6.9.212)
+Host is up (0.00013s latency).
+MAC Address: 00:17:08:D1:34:1D (Hewlett Packard)
+Nmap scan report for ylab16.cse.iitm.ac.in (10.6.9.216)
+Host is up (0.00017s latency).
+MAC Address: 00:17:08:92:DA:13 (Hewlett Packard)
+Nmap scan report for ylab17.cse.iitm.ac.in (10.6.9.217)
+Host is up (0.00015s latency).
+MAC Address: 00:17:08:92:38:C9 (Hewlett Packard)
+Nmap scan report for ylab18.cse.iitm.ac.in (10.6.9.218)
+Host is up (0.00015s latency).
+MAC Address: 00:17:08:92:E6:6F (Hewlett Packard)
+Nmap scan report for ylab19.cse.iitm.ac.in (10.6.9.219)
+Host is up (0.00015s latency).
+MAC Address: 00:17:08:92:B6:E5 (Hewlett Packard)
+Nmap scan report for ylab24.cse.iitm.ac.in (10.6.9.224)
+Host is up (0.00021s latency).
+MAC Address: 00:17:08:D1:46:01 (Hewlett Packard)
+Nmap scan report for ylab26.cse.iitm.ac.in (10.6.9.226)
+Host is up (0.00021s latency).
+MAC Address: 00:17:08:D1:34:59 (Hewlett Packard)
+Nmap scan report for ylab27.cse.iitm.ac.in (10.6.9.227)
+Host is up (0.00021s latency).
+MAC Address: 00:17:08:D1:38:3F (Hewlett Packard)
+Nmap scan report for ylab28.cse.iitm.ac.in (10.6.9.228)
+Host is up (0.00019s latency).
+MAC Address: 00:17:08:92:6A:6B (Hewlett Packard)
+Nmap scan report for 10.6.9.236
+Host is up (0.0014s latency).
+MAC Address: 00:16:3E:55:68:A1 (Xensource)
+Nmap scan report for 10.6.9.237
+Host is up (0.0014s latency).
+MAC Address: 00:16:3E:1D:D9:7C (Xensource)
+Nmap scan report for 10.6.9.238
+Host is up (0.0014s latency).
+MAC Address: 00:16:3E:1C:C4:78 (Xensource)
+Nmap scan report for 10.6.9.239
+Host is up (0.0014s latency).
+MAC Address: 00:1C:FC:9A:94:FB (Suminet Communication Technologies (Shanghai) Co.)
+Nmap scan report for 10.6.9.253
+Host is up (0.00033s latency).
+MAC Address: 00:1E:A6:00:36:1F (Best IT World (India) Pvt.)
+Nmap scan report for doslab-firewall.cse.iitm.ac.in (10.6.9.254)
+Host is up (0.00057s latency).
+MAC Address: 08:00:27:84:73:1E (Cadmus Computer Systems)
+Nmap done: 256 IP addresses (41 hosts up) scanned in 14.67 seconds
